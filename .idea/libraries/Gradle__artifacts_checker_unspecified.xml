@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:checker:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/checker/build/transforms/ec87886b5b5e2ce029d0915949828b48/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/checker/build/transforms/ec87886b5b5e2ce029d0915949828b48/res" />
+      <root url="file://$PROJECT_DIR$/checker/build/transforms/ec87886b5b5e2ce029d0915949828b48/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
